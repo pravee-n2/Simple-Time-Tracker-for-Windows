@@ -26,6 +26,8 @@ Use this app to track your daily activities on Windows and export the data in a 
 - Python 3.x  
 - Tkinter (usually included with Python)  
 - Standard Python libraries (`datetime`, `csv`, etc.)
+- pystray
+- pillow
 
 ---
 
