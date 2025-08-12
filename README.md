@@ -31,7 +31,7 @@ Use this app to track your daily activities on Windows and export the data in a 
 
 ## Usage
 
-1. Run the Python script:
+1. Run the Python script (or) Use the .exe file:
    ```bash
    python time_tracker.py
    ```
